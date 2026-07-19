@@ -1,2 +1,1 @@
-FROM docker.io/diegosouzapw/omniroute:latest
-
+FROM docker.io/diegosouzapw/omniroute:latest-web
